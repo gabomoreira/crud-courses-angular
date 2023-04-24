@@ -1,0 +1,8 @@
+{
+  "courses": [
+    { "id": "a", "name": "Angular 13+", "category": "Front end" },
+    { "id": "b", "name": "Spring Boot", "category": "Back end" },
+    { "id": "c", "name": "C e C++ RESTFul", "category": "Back end" },
+    { "id": "d", "name": "COBOL - Seja milionário", "category": "Back end" }
+  ]
+}
