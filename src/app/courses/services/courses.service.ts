@@ -23,4 +23,11 @@ export class CoursesService {
       tap(courses => console.log(courses))
     );
   }
+
+  save(course: Partial<Course>) {
+    return this.http.post<Course>(this.API, course)
+    .pipe(
+      first()
+    )
+  }
 }

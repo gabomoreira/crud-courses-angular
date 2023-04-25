@@ -1,8 +1,59 @@
 {
   "courses": [
-    { "id": "a", "name": "Angular 13+", "category": "Front end" },
-    { "id": "b", "name": "Spring Boot", "category": "Back end" },
-    { "id": "c", "name": "C e C++ RESTFul", "category": "Back end" },
-    { "id": "d", "name": "COBOL - Seja milionário", "category": "Back end" }
+    {
+      "id": "a",
+      "name": "Angular 13+",
+      "category": "Front end"
+    },
+    {
+      "id": "b",
+      "name": "Spring Boot",
+      "category": "Back end"
+    },
+    {
+      "id": "c",
+      "name": "C e C++ RESTFul",
+      "category": "Back end"
+    },
+    {
+      "id": "d",
+      "name": "COBOL - Seja milionário",
+      "category": "Back end"
+    },
+    {
+      "name": "Sênior em 6 meses",
+      "category": "fullstack",
+      "id": "FZLcdNy"
+    },
+    {
+      "name": "Estrutura de dados",
+      "category": "back-end",
+      "id": "zZyuJd0"
+    },
+    {
+      "name": "Estrutura de dados",
+      "category": "back-end",
+      "id": "aHTFuj0"
+    },
+    {
+      "name": "Estrutura de dados",
+      "category": "back-end",
+      "id": "6K3_c8T"
+    },
+    {
+      "name": "Spring Boot Security",
+      "category": "back-end",
+      "id": "DPjC7as"
+    },
+    {
+      "name": "",
+      "category": "",
+      "id": "5hN5VHj"
+    },
+    {
+      "name": "Angular 15",
+      "category": "front-end",
+      "id": "2EsGODj"
+    }
   ]
 }
